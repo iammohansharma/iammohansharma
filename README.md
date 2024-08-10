@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohan Sharma</h1>
 <h3 align="center">A passionate frontend & Mobile App developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://iammohansharma.github.io/](https://iammohansharma.github.io/)
+- 👨‍💻 All of my projects are available at [https://iammohansharma-d52e9.web.app/projects/](https://iammohansharma-d52e9.web.app/projects/)
 
 - 📫 How to reach me **mohansharma3443@gmail.com**
 
